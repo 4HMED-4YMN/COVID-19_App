@@ -19,7 +19,7 @@ A large cell array It contains the global case and death counts by country and s
 
 [`BuildStates.m`](#buildstatesm)
 
-[`covid_math.m`](#covidmathm)
+[`covid_math.m`](#covid_mathm)
 
 >After processing the data it is a straight forward process to build the GUI using MATLAB  App Designer 
 
