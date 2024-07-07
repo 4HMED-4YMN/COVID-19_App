@@ -13,10 +13,10 @@ A large cell array It contains the global case and death counts by country and s
 ---
 >There are  4 Classes to process data directly from a COVID-19 data set
 
-[[#\`BuildGlobal.m\`|BuildGlobal.m]]
-[[#\`BuildCountry.m\`|BuildCountry.m]]
-[[#\`BuildStates.m\`|BuildStates.m]]
-[[#\`covid_math.m\`|covid_math.m]]
+[BuildGlobal.m](#buildglobalm)
+[BuildCountry.m](#buildcountrym)
+[#BuildStates.m](#buildstatesm)
+[covid_math.m](#covid-mathm)
 
 >After processing the data it is a straight forward process to build the GUI using MATLAB  App Designer 
 
