@@ -8,7 +8,7 @@ The goal of this project is to create a MATLAB program that processes and visual
 ---
 #### `covid_data2.mat` 
 A large cell array It contains the global case and death counts by country and state and by date. Specifically, the first row of the cell array specifies what each column contains: Country and State followed by a number of dates starting from "1/22/20," that is, January 22, 2020. Each data cell for a given country and date contains a 2-element vector of doubles: the first element is the cumulative case count, while the second is the cumulative number of deaths.
-![[fig3|]]
+![](https://github.com/4HMED-4YMN/COVID-19_App/blob/main/Pasted%20image%2020240707154241.png?raw=true)
 
 ---
 >There are  4 Classes to process data directly from a COVID-19 data set
