@@ -2,7 +2,7 @@
 
 The goal of this project is to create a MATLAB program that processes and visualizes COVID-19 pandemic data . The data (obtained from the [Coronavirus Resource Center](https://coronavirus.jhu.edu/map.html) at the Johns Hopkins University) is available from the .mat file attached (`covid_data2.mat`)
 
-| ![[fig1|]] | ![[fig2|Pasted image 20240707155141.png]] |
+| ![](https://raw.githubusercontent.com/4HMED-4YMN/COVID-19_App/main/Pasted%20image%2020240707155141.png) | ![](https://raw.githubusercontent.com/4HMED-4YMN/COVID-19_App/main/Pasted%20image%2020240707155104.png) |
 | ------------------------------------ | ------------------------------------ |
 
 ---
